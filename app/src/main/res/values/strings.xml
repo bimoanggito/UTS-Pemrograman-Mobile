@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS PEMROGRAMAN MOBILE ASLI</string>
+    <string name="subject">Email</string>
+    <string name="message">Password</string>
+    <string name="send">Log In</string>
+
+    <string name="Nama">Timotius Bimo Anggito</string>
+    <string name="NPM">20180801402</string>
+    <string name="Universitas">Universitas Esa Unggul</string>
+    <string name="Jurusan">Teknik Informatika</string>
+</resources>
